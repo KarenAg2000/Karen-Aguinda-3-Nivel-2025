@@ -1,0 +1,15 @@
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\obj\Debug\net9.0\Estructura de Datos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\obj\Debug\net9.0\Estructura de Datos.AssemblyInfoInputs.cache
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\obj\Debug\net9.0\Estructura de Datos.AssemblyInfo.cs
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\obj\Debug\net9.0\Estructura de Datos.csproj.CoreCompileInputs.cache
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\obj\Debug\net9.0\Estructura de Datos.sourcelink.json
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\bin\Debug\net9.0\Estructura de Datos.exe
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\bin\Debug\net9.0\Estructura de Datos.deps.json
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\bin\Debug\net9.0\Estructura de Datos.runtimeconfig.json
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\bin\Debug\net9.0\Estructura de Datos.dll
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\bin\Debug\net9.0\Estructura de Datos.pdb
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\obj\Debug\net9.0\Estructura de Datos.dll
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\obj\Debug\net9.0\refint\Estructura de Datos.dll
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\obj\Debug\net9.0\Estructura de Datos.pdb
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\obj\Debug\net9.0\Estructura de Datos.genruntimeconfig.cache
+c:\Users\Karen AG\Desktop\Karen-Aguinda-3-Nivel\Estructura de Datos\obj\Debug\net9.0\ref\Estructura de Datos.dll

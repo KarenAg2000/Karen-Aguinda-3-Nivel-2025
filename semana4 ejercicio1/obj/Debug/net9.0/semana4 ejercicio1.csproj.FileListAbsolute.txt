@@ -1,0 +1,14 @@
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\bin\Debug\net9.0\semana4 ejercicio1.exe
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\bin\Debug\net9.0\semana4 ejercicio1.deps.json
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\bin\Debug\net9.0\semana4 ejercicio1.runtimeconfig.json
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\bin\Debug\net9.0\semana4 ejercicio1.dll
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\bin\Debug\net9.0\semana4 ejercicio1.pdb
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\obj\Debug\net9.0\semana4 ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\obj\Debug\net9.0\semana4 ejercicio1.AssemblyInfoInputs.cache
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\obj\Debug\net9.0\semana4 ejercicio1.AssemblyInfo.cs
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\obj\Debug\net9.0\semana4 ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\obj\Debug\net9.0\semana4 ejercicio1.dll
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\obj\Debug\net9.0\refint\semana4 ejercicio1.dll
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\obj\Debug\net9.0\semana4 ejercicio1.pdb
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\obj\Debug\net9.0\semana4 ejercicio1.genruntimeconfig.cache
+C:\Users\MIGUEL MIXER AUDIO C\Desktop\Karen Aguinda 3 nivel\semana4 ejercicio1\obj\Debug\net9.0\ref\semana4 ejercicio1.dll
