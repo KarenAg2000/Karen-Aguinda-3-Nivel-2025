@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025\\Proyecto1\\Proyecto1.csproj",
-      "projectName": "Proyecto1",
-      "projectPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025\\Proyecto1\\Proyecto1.csproj",
+      "projectUniqueName": "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025\\semana7\\semana7.csproj",
+      "projectName": "semana7",
+      "projectPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025\\semana7\\semana7.csproj",
       "packagesPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025\\Proyecto1\\obj\\",
+      "outputPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025\\semana7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MIGUEL MIXER AUDIO C\\AppData\\Roaming\\NuGet\\NuGet.Config"
