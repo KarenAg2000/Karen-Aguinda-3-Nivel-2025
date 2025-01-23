@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025-1\\semana7ejercicio9\\semana7ejercicio9.csproj": {}
+    "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025-1\\semana8\\semana8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025-1\\semana7ejercicio9\\semana7ejercicio9.csproj": {
+    "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025-1\\semana8\\semana8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025-1\\semana7ejercicio9\\semana7ejercicio9.csproj",
-        "projectName": "semana7ejercicio9",
-        "projectPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025-1\\semana7ejercicio9\\semana7ejercicio9.csproj",
+        "projectUniqueName": "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025-1\\semana8\\semana8.csproj",
+        "projectName": "semana8",
+        "projectPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025-1\\semana8\\semana8.csproj",
         "packagesPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025-1\\semana7ejercicio9\\obj\\",
+        "outputPath": "C:\\Users\\MIGUEL MIXER AUDIO C\\Desktop\\Karen-Aguinda-3-Nivel-2025-1\\semana8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MIGUEL MIXER AUDIO C\\AppData\\Roaming\\NuGet\\NuGet.Config"
